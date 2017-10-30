@@ -60,3 +60,4 @@ write.table(tidy2,file="outputDB_C3wk4.txt", row.names=FALSE)
 data <- read.table("./outputDB_C3wk4.txt", header = TRUE) 
 View(data)
 
+##Thanks to https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
