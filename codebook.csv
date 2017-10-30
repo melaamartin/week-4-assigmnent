@@ -1,0 +1,69 @@
+OutputVariableName,OriginalVariablelName,Definition
+subject,N/A ,(coded 1 - 30) from subject_test.txt and subject_train.txt 
+activity,N/A ,"(originally coded 1 - 6; WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING); from activity_labels.txt"
+tBodyAccMeanX,tBodyAcc-mean()-X,mean body linear acceleration time (X axial signal); NOTE: this and all subsequent original variable names and descriptions from features.txt and features_info.txt files)
+tBodyAccMeanY,tBodyAcc-mean()-Y,mean body linear acceleration time (Y axial signal)
+tBodyAccMeanZ,tBodyAcc-mean()-Z,mean body linear acceleration time (Z axial signal)
+tBodyAccSdX,tBodyAcc-std()-X,standard deviation body linear acceleration time (X axial signal)
+tBodyAccSdY,tBodyAcc-std()-Y,standard deviation body linear acceleration time (Y axial signal)
+tBodyAccSdZ,tBodyAcc-std()-Z,standard deviation body linear acceleration time (Z axial signal)
+tGravityAccMeanX,tGravityAcc-mean()-X,mean gravity acceleration time (X axial signal )
+tGravityAccMeanY,tGravityAcc-mean()-Y,mean gravity acceleration time (Y axial signal)
+tGravityAccMeanZ,tGravityAcc-mean()-Z,mean gravity acceleration time (Z axial signal)
+tGravityAccSdX,tGravityAcc-std()-X,standard deviation gravity acceleration time (X axial signal)
+tGravityAccSdY,tGravityAcc-std()-Y,standard deviation gravity acceleration time (Y axial signal)
+tGravityAccSdZ,tGravityAcc-std()-Z,standard deviation gravity acceleration time (Z axial signal)
+tBodyAccJerkMeanX,tBodyAccJerk-mean()-X,mean Jerk signal time derived from body linear acceleration (X axial signal)
+tBodyAccJerkMeanY,tBodyAccJerk-mean()-Y,mean Jerk signal time derived from body linear acceleration (Y axial signal)
+tBodyAccJerkMeanZ,tBodyAccJerk-mean()-Z,mean Jerk signal time derived from body linear acceleration (Z axial signal)
+tBodyAccJerkSdX,tBodyAccJerk-std()-X,standard deviationJerk signal time derived from body linear acceleration (X axial signal)
+tBodyAccJerkSdY,tBodyAccJerk-std()-Y,standard deviation Jerk signal time derived from body linear acceleration (Y axial signal)
+tBodyAccJerkSdZ,tBodyAccJerk-std()-Z,standard deviation Jerk signal time derived from body linear acceleration  (Z axial signal)
+tBodyGyroMeanX,tBodyGyro-mean()-X,mean angular velocity time (X axial signal )
+tBodyGyroMeanY,tBodyGyro-mean()-Y,mean angular velocity time (Y axial signal)
+tBodyGyroMeanZ,tBodyGyro-mean()-Z,mean gravity acceleration time (Z axial signal)
+tBodyGyroSdX,tBodyGyro-std()-X,standard deviation angular velocity time (X axial signal)
+tBodyGyroSdY,tBodyGyro-std()-Y,standard deviation angular velocity time (Y axial signal)
+tBodyGyroSdZ,tBodyGyro-std()-Z,standard deviation angular velocity time (Z axial signal)
+tBodyGyroJerkMeanX,tBodyGyroJerk-mean()-X,mean Jerk signal time derived from angular velocity (X axial signal)
+tBodyGyroJerkMeanY,tBodyGyroJerk-mean()-Y,mean Jerk signal time derived from angular velocity  (Y axial signal)
+tBodyGyroJerkMeanZ,tBodyGyroJerk-mean()-Z,mean Jerk signal time derived from angular velocity (Z axial signal)
+tBodyGyroJerkSdX,tBodyGyroJerk-std()-X,standard deviationJerk signal time derived from angular velocity (X axial signal)
+tBodyGyroJerkSdY,tBodyGyroJerk-std()-Y,standard deviation Jerk signal time derived from angular velocity (Y axial signal)
+tBodyGyroJerkSdZ,tBodyGyroJerk-std()-Z,standard deviation Jerk signal time derived from angular velocity (Z axial signal)
+tBodyAccMagMean,tBodyAccMag-mean(),mean magnitude of 3 dimensional signal body linear acceleration time (calculated from Euclidean norm)
+tBodyAccMagSd,tBodyAccMag-std(),standard deviation magnitude of 3 dimensional signal body linear acceleration time (calculated from Euclidean norm)
+tGravityAccMagMean,tGravityAccMag-mean(),mean magnitude of 3 dimensional signal  gravity acceleration time (calculated from Euclidean norm)
+tGravityAccMagSd,tGravityAccMag-std(),standard deviation magnitude of 3 dimensional signal gravity acceleration time (calculated from Euclidean norm)
+tBodyAccJerkMagMean,tBodyAccJerkMag-mean(),mean Fast Fourier Transform (FFT) magnitude of 3 dimensional Jerk signal acceleration time
+tBodyAccJerkMagSd,tBodyAccJerkMag-std(),standard deviation FFT magnitude of 3 dimensional Jerk signal acceleration time
+tBodyGyroMagMean,tBodyGyroMag-mean(),mean magnitude of 3 dimensional signal angular velocity time (calculated from Euclidean norm)
+tBodyGyroMagSd,tBodyGyroMag-std(),standard deviation magnitude of 3 dimensional signal angular velocity time (calculated from Euclidean norm)
+tBodyGyroJerkMagMean,tBodyGyroJerkMag-mean(),mean Fast Fourier Transform (FFT) magnitude of 3 dimensional Jerk signal angular velocity time
+tBodyGyroJerkMagSd,tBodyGyroJerkMag-std(),standard deviation FFT magnitude of 3 dimensional Jerk signal angular velocity time
+fBodyAccMeanX,fBodyAcc-mean()-X,mean body linear acceleration frequency (X axial signal)
+fBodyAccMeanY,fBodyAcc-mean()-Y,mean body linear acceleration frequency (Y axial signal)
+fBodyAccMeanZ,fBodyAcc-mean()-Z,mean body linear acceleration frequency (Z axial signal)
+fBodyAccSdX,fBodyAcc-std()-X,standard deviation body linear acceleration frequency (X axial signal)
+fBodyAccSdY,fBodyAcc-std()-Y,standard deviation body linear acceleration frequency (Y axial signal)
+fBodyAccSdZ,fBodyAcc-std()-Z,standard deviation body linear acceleration frequency (Z axial signal)
+fBodyAccJerkMeanX,fBodyAccJerk-mean()-X,mean Jerk signal frequency derived from body linear acceleration (X axial signal)
+fBodyAccJerkMeanY,fBodyAccJerk-mean()-Y,mean Jerk signal frequency derived from body linear acceleration (Y axial signal)
+fBodyAccJerkMeanZ,fBodyAccJerk-mean()-Z,mean Jerk signal frequency derived from body linear acceleration (Z axial signal)
+fBodyAccJerkSdX,fBodyAccJerk-std()-X,standard deviationJerk signal frequency derived from body linear acceleration (X axial signal)
+fBodyAccJerkSdY,fBodyAccJerk-std()-Y,standard deviation Jerk signal frequency derived from body linear acceleration (Y axial signal)
+fBodyAccJerkSdZ,fBodyAccJerk-std()-Z,standard deviation Jerk signal frequency derived from body linear acceleration  (Z axial signal)
+fBodyGyroMeanX,fBodyGyro-mean()-X,mean angular velocity frequency (X axial signal )
+fBodyGyroMeanY,fBodyGyro-mean()-Y,mean angular velocity frequency (Y axial signal)
+fBodyGyroMeanZ,fBodyGyro-mean()-Z,mean gravity acceleration frequency (Z axial signal)
+fBodyGyroSdX,fBodyGyro-std()-X,standard deviation angular velocity frequency (X axial signal)
+fBodyGyroSdY,fBodyGyro-std()-Y,standard deviation angular velocity frequency (Y axial signal)
+fBodyGyroSdZ,fBodyGyro-std()-Z,standard deviation angular velocity frequency (Z axial signal)
+fBodyAccMagMean,fBodyAccMag-mean(),mean magnitude of 3 dimensional signal body linear acceleration frequency (calculated from Euclidean norm)
+fBodyAccMagSd,fBodyAccMag-std(),standard deviation magnitude of 3 dimensional signal body linear acceleration frequency (calculated from Euclidean norm)
+fBodyBodyAccJerkMagMean,fBodyBodyAccJerkMag-mean(),mean Fast Fourier Transform (FFT) magnitude of 3 dimensional Jerk signal acceleration frequency
+fBodyBodyAccJerkMagSd,fBodyBodyAccJerkMag-std(),standard deviation FFT magnitude of 3 dimensional Jerk signal acceleration frequency
+fBodyBodyGyroMagMean,fBodyBodyGyroMag-mean(),mean magnitude of 3 dimensional signal angular velocity (calculated from Euclidean norm) frequency
+fBodyBodyGyroMagSd,fBodyBodyGyroMag-std(),standard deviation magnitude of 3 dimensional signal angular velocity (calculated from Euclidean norm) frequency
+fBodyBodyGyroJerkMagMean,fBodyBodyGyroJerkMag-mean(),mean Fast Fourier Transform (FFT) magnitude of 3 dimensional Jerk signal angular velocity frequency
+fBodyBodyGyroJerkMagSd,fBodyBodyGyroJerkMag-std(),standard deviation FFT magnitude of 3 dimensional Jerk signal angular velocity frequency
